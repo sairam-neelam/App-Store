@@ -1,0 +1,21 @@
+.app-element {
+  background-color: #ffffff;
+  width: 150px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+  padding: 20px;
+}
+
+.app-image {
+  width: 100%;
+}
+
+.app-name {
+  font-family: Bree Serif;
+  font-size: 18px;
+  color: #1e293b;
+}
